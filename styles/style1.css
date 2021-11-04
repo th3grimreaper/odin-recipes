@@ -1,0 +1,15 @@
+.dishtitle {
+    color: darkslategray ;
+    background-color: lightblue;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h3 {
+    color: darkslategray;
+    background-color: lightblue;
+}
