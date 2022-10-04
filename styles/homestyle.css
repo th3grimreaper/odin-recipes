@@ -2,4 +2,9 @@
   color: darkblue;
   background-color: whitesmoke;
   text-align: center;
+  font-size: 20px;
+}
+
+li {
+  padding: 1em;
 }
