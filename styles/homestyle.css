@@ -1,10 +1,32 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 1em;
+  padding: 3em;
+}
+
 .heading {
-  color: darkblue;
-  background-color: whitesmoke;
+  background-color: lightcyan;
+  color: darkslategray;
   text-align: center;
   font-size: 20px;
+  margin: 1em;
+  padding: 0.25rem;
+}
+
+ul {
+  background-color: lightcyan;
+  padding: 1em;
+  margin: 1em;
 }
 
 li {
-  padding: 1em;
+  padding: .25em; 
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
 }
