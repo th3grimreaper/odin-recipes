@@ -1,6 +1,7 @@
 
 html {
   font-size: 16px;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 }
 
 .heading {
-  background-color: lightcyan;
+  background-color: lightgrey;
   color: darkslategray;
   font-size: 20px;
   margin: auto;
@@ -20,12 +21,11 @@ body {
 .recipes {
   display: flex;
   justify-content: center;
-  background-color: lightcyan;
+  background-color: lightgrey;
   margin-top: 1em;
 }
 
 .card {
-  background-color: lightcyan;
   padding: 0; 
   display: flex;
   flex-direction: column;
@@ -42,4 +42,5 @@ li {
 
 a {
   text-decoration: none;
+  color: darkslategrey;
 }
